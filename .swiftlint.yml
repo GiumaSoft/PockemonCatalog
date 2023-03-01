@@ -1,0 +1,6 @@
+disabled_rules:
+  - nesting
+
+line_length: 200 
+identifier_name: 
+  min_length: 2
